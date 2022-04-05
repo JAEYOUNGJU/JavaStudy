@@ -9,7 +9,6 @@ public class timeCalculation {
 			Scanner sc = new Scanner(System.in);
 			
 			
-			//문자열-> 문자 걸러내기
 			int firstHour = sc.nextInt();
 			int firstMinute = sc.nextInt();
 			int firstSecond = sc.nextInt();
